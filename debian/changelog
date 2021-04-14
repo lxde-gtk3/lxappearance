@@ -1,3 +1,9 @@
+lxappearance (99.0.6.3-gtk3) unstable; urgency=medium
+
+  * Upstream
+  
+ -- Ali Riza Keskin <parduscix@yandex.ru>
+
 lxappearance (0.6.3-gtk3) unstable; urgency=medium
 
   * Porting gtk3
